@@ -237,3 +237,5 @@ What do you think happens to the label?
 2. Why are the letters `n`, `s`, `e`, and `w` used?
 3. What's the difference between `sticky="w"` and `sticky="ew"`?
 4. How would you make a widget fill the entire grid cell?
+
+---

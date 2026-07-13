@@ -373,3 +373,5 @@ This is perfectly fine for small Tkinter programs and for learning.
 Later, as your applications become larger, we'll learn cleaner ways to organize widgets and callbacks. For now, this approach is simple, readable, and exactly what you should use.
 
 Complete the three experiments, the challenge program, and answer the four questions. Once you're comfortable with `config()`, you'll have enough knowledge to start building a functional GUI version of your calculator.
+
+---

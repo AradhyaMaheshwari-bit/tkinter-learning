@@ -338,3 +338,5 @@ label = tk.Label(...)
 Both are Python objects created from classes. Tkinter is heavily object-oriented, so as we progress you'll see more widgets created the same way. Understanding that these are objects—not special syntax—will make the rest of Tkinter much easier to learn.
 
 Complete the two experiments and the two challenges, then we'll move on to styling Labels (fonts, colors, and alignment) before introducing buttons.
+
+---

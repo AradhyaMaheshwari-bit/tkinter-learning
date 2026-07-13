@@ -189,3 +189,5 @@ How do you think the layout will look?
 3. If a widget starts at `column=1` and has `columnspan=3`, which columns does it occupy?
 
 Once you understand spans, we'll move on to `sticky`, which controls how a widget is aligned **inside** its grid cell. That's the last major layout concept you'll need before we start assembling the calculator GUI.
+
+---

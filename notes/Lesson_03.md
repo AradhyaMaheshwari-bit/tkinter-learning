@@ -352,3 +352,5 @@ In the next lesson, you'll connect a **Button** with a **Label**.
 Instead of printing to the terminal, you'll make a button **change the text on the window itself**.
 
 That's the moment your GUI starts feeling like a real application.
+
+---

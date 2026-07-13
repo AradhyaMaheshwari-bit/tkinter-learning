@@ -318,3 +318,5 @@ Once you've completed the challenge, try answering these questions in your own w
 5. What happens if `mainloop()` is removed?
 
 Don't worry about getting the wording perfect. Explaining these concepts yourself is one of the best ways to make them stick.
+
+---

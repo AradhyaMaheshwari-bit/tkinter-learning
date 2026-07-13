@@ -287,3 +287,5 @@ For example, in a calculator, the display might span all four columns:
 ```
 
 That display isn't just one cell—it stretches across the entire top row. That's where `columnspan` comes in, and it's one of the most useful features of `grid()`.
+
+---

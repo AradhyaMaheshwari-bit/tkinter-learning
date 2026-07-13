@@ -365,3 +365,5 @@ Even with `side="left"`, creating a calculator would be awkward.
 That's because `pack()` isn't designed for grid-like interfaces.
 
 In the next lesson, you'll learn `grid()`, which places widgets using **rows and columns**—exactly what a calculator keypad needs. That's why almost every Tkinter calculator you see uses `grid()` for the buttons.
+
+---

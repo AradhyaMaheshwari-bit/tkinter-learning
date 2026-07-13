@@ -122,3 +122,5 @@ After you've done that, tell me:
 1. What happens if you remove `bg`?
 2. What happens if you remove `fg`?
 3. What do you think will happen if you set both `fg` and `bg` to the same color? (Predict first, then test.)
+
+---
