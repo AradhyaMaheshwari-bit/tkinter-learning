@@ -45,18 +45,29 @@ root.geometry("400x200")
 
 
 
-header = tk.Frame(root)
-header.pack()
+# header = tk.Frame(root)
+# header.pack()
 
-main = tk.Frame(root)
-main.pack()
+# main = tk.Frame(root)
+# main.pack()
 
-button = tk.Frame(root)
-button.pack()
+# button = tk.Frame(root)
+# button.pack()
 
-tk.Label(header, text="Calculator").pack()
-tk.Entry(main).pack()
-tk.Button(button, text="1").grid(row=0, column=0,padx=10)
-tk.Button(button, text="2").grid(row=0, column=1, padx=10)
+# tk.Label(header, text="Calculator").pack()
+# tk.Entry(main).pack()
+# tk.Button(button, text="1").grid(row=0, column=0,padx=10)
+# tk.Button(button, text="2").grid(row=0, column=1, padx=10)
+
+
+# When we want to turn off the default behaviour or minimum space
+frame = tk.Frame(
+    root,
+    bg="lightblue",
+    width=200,
+    height=100
+)
+frame.pack()
+frame.pack_propagate(False)
 
 root.mainloop()

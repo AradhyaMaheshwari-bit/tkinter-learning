@@ -17,12 +17,12 @@ This repository contains lesson-wise examples, experiments, and notes that build
 - `grid()` Layout Manager
 - `rowspan` & `columnspan`
 - `sticky`
-
-### 🚧 Currently Learning
-
 - Entry Widgets
 - Frames
 - Tkinter Variables
+
+### 🚧 Currently Learning
+
 - Message Boxes
 - Events
 
@@ -49,8 +49,6 @@ Tkinter/
 ```
 
 ---
-
-## 🎯 Goal
 
 ## 🎯 Goal
 
@@ -90,9 +88,9 @@ Progress:
 - ✅ `grid()`
 - ✅ `rowspan` & `columnspan`
 - ✅ `sticky`
-- ⏳ Entry Widgets
-- ⏳ Frames
-- ⏳ Tkinter Variables
+- ✅ Entry Widgets
+- ✅ Frames
+- ✅ Tkinter Variables
 - ⏳ Message Boxes
 - ⏳ Events
 
