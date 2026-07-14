@@ -35,15 +35,24 @@ def show_password():
 show_password_button = tk.Button(login, text="👁 Show", command=show_password)
 show_password_button.grid(row=2, column=2)
 
-def check_password():
+def check_password(event=None):
     if username_text.get().strip() == "admin" and password_text.get() == "1234":
         messagebox.showinfo("Security", "Access Granted")
+        username_text.set("")
+        password_text.set("")
     else:
         messagebox.showerror("Security", "Access Denied")
+        password_text.set("")
+        password_entry.focus()
 
 login_button = tk.Button(login, text="Login", command=check_password).grid(row=3, column=0, columnspan=2)
+root.bind("<Return>", check_password)
 
 tk.Label(root, text="+" + "-" * 80 + "+").pack()
 
+def escape_pressed(event):
+    root.destroy()
+
+root.bind("<Escape>", escape_pressed)
 root.mainloop()
 

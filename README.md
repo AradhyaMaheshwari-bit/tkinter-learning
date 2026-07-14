@@ -1,8 +1,13 @@
 # Tkinter Learning Journey
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Python](https://img.shields.io/badge/Python-3.14+-3776AB?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A repository documenting my journey of learning **Tkinter**, Python's standard library for building desktop GUI (Graphical User Interface) applications.
 
-This repository contains lesson-wise examples, experiments, and notes that build from the fundamentals to real GUI applications.
+This repository contains lesson-wise examples, experiments, and notes that progressively build from the fundamentals of Tkinter to complete desktop GUI applications.
 
 ---
 
@@ -57,6 +62,16 @@ The learning journey will culminate in building a fully functional desktop calcu
 
 ---
 
+## 🚀 Status
+
+**Status:** ✅ Tkinter Fundamentals Completed
+
+This repository now covers the core concepts required to build desktop GUI applications using Tkinter.
+
+Future updates will be added whenever new Tkinter widgets or concepts are learned through real-world projects.
+
+---
+
 ## 🛠 Requirements
 
 - Python 3.14+
@@ -70,33 +85,10 @@ Each lesson is accompanied by a Markdown file containing explanations, observati
 
 ---
 
-## 📌 Status
-
-🚧 Currently Learning
-
-Progress:
-
-- ✅ Windows
-- ✅ Labels
-- ✅ Styling Labels
-- ✅ Buttons
-- ✅ Widget Configuration
-- ✅ `pack()`
-- ✅ `grid()`
-- ✅ `rowspan` & `columnspan`
-- ✅ `sticky`
-- ✅ Entry Widgets
-- ✅ Frames
-- ✅ Tkinter Variables
-- ✅ Message Boxes
-- ✅ Events
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
 
-⭐ If you're also learning Tkinter, feel free to explore the examples and follow along with the progression from basic concepts to complete applications.
+⭐ If you're also learning Tkinter, feel free to explore the examples and follow the same learning path from the basics of Tkinter to building complete desktop GUI applications.
