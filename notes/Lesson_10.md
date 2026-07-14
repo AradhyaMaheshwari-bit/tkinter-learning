@@ -539,3 +539,5 @@ Frames organize other widgets.
 That's why Tkinter feels so consistent—almost every component follows the same creation and layout pattern.
 
 Complete the experiments and challenges. Once you're comfortable with Frames, we'll move to **Tkinter Variables (`StringVar`, `IntVar`, etc.)**, which make keeping your interface synchronized with your program much cleaner.
+
+---

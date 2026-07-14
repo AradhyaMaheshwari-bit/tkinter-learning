@@ -21,9 +21,6 @@ This repository contains lesson-wise examples, experiments, and notes that build
 - Frames
 - Tkinter Variables
 - Message Boxes
-
-### 🚧 Currently Learning
-
 - Events
 
 ---
@@ -92,7 +89,7 @@ Progress:
 - ✅ Frames
 - ✅ Tkinter Variables
 - ✅ Message Boxes
-- ⏳ Events
+- ✅ Events
 
 ---
 

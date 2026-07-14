@@ -546,3 +546,5 @@ Notice that **`textvariable=text` is missing.**
 2. What will `print(text.get())` output?
 
 Don't run it immediately. Try to reason it out using the mental model we've built throughout the Tkinter lessons.
+
+---

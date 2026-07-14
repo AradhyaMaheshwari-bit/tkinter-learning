@@ -621,3 +621,5 @@ This exercise combines:
 * ✅ Message boxes
 
 It should fit comfortably in a single Python file and is a great checkpoint before the final lesson on events.
+
+---
