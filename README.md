@@ -20,10 +20,10 @@ This repository contains lesson-wise examples, experiments, and notes that build
 - Entry Widgets
 - Frames
 - Tkinter Variables
+- Message Boxes
 
 ### 🚧 Currently Learning
 
-- Message Boxes
 - Events
 
 ---
@@ -91,7 +91,7 @@ Progress:
 - ✅ Entry Widgets
 - ✅ Frames
 - ✅ Tkinter Variables
-- ⏳ Message Boxes
+- ✅ Message Boxes
 - ⏳ Events
 
 ---
