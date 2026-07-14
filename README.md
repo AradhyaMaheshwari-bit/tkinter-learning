@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.14+-3776AB?logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub last commit](https://img.shields.io/github/last-commit/AradhyaMaheshwari-bit/tkinter-learning)
 
 A repository documenting my journey of learning **Tkinter**, Python's standard library for building desktop GUI (Graphical User Interface) applications.
 
